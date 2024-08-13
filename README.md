@@ -1,4 +1,4 @@
-# Árbol Binario de Búsqueda en Rust 🦀🌳🔎
+# Árbol Binario de Búsqueda en Rust 
 
 Este código implementa un Árbol Binario de Búsqueda (BST) en Rust. Un Árbol Binario de Búsqueda es una estructura de datos
 donde cada nodo tiene como máximo dos hijos: uno izquierdo y uno derecho. Los nodos en el subárbol izquierdo contienen valores
